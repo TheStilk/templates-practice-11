@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.1">
   <diagram name="Page-1" id="gCCnFsbiczfKd_4scbZD">
-    <mxGraphModel>
+    <mxGraphModel dx="3515" dy="2080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,6 +131,7 @@
         <mxCell id="42" edge="1" parent="1" source="6" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0;exitY=0.61;entryX=0.4;entryY=0;" target="13" value="Запросы данных">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="400" y="520" />
               <mxPoint x="121" y="697" />
             </Array>
           </mxGeometry>
@@ -138,6 +139,7 @@
         <mxCell id="43" edge="1" parent="1" source="6" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0;exitY=0.66;entryX=0.25;entryY=0;" target="23" value="Проверка прав доступа">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="510" y="620" />
               <mxPoint x="394" y="697" />
             </Array>
           </mxGeometry>
@@ -152,13 +154,14 @@
         <mxCell id="45" edge="1" parent="1" source="6" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=1;exitY=0.74;entryX=0.2;entryY=0;" target="28" value="Отправка уведомлений">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1404" y="697" />
+              <mxPoint x="1470" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="46" edge="1" parent="1" source="6" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=1;exitY=0.63;entryX=0.27;entryY=0;" target="33" value="Генерация отчетов">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1480" y="550" />
               <mxPoint x="1742" y="697" />
             </Array>
           </mxGeometry>
@@ -180,7 +183,9 @@
         <mxCell id="49" edge="1" parent="1" source="37" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0;exitY=0.66;entryX=0.8;entryY=0;" target="13" value="Проверка состояния">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="540" y="50" />
               <mxPoint x="288" y="189" />
+              <mxPoint x="150" y="450" />
               <mxPoint x="288" y="697" />
             </Array>
           </mxGeometry>
@@ -189,6 +194,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="595" y="189" />
+              <mxPoint x="500" y="380" />
               <mxPoint x="595" y="697" />
             </Array>
           </mxGeometry>
@@ -210,7 +216,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="53" edge="1" parent="1" source="37" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=1;exitY=0.69;entryX=0.59;entryY=0;" target="33" value="Проверка состояния">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry relative="1" x="0.1012" y="-52" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="1902" y="189" />
               <mxPoint x="1902" y="697" />
